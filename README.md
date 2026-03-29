@@ -1,6 +1,8 @@
 # Marble Blast Fubar Unity Remake
 
-The unity port of the popular Marble Blast Gold modification Marble Blast Fubar. This project is technically a fork of my Marble Blast Platinum Unity Port. This project started from CyberFox's [MarblePhysics Unity](https://github.com/CyberFoxHax/MarblePhysicsUnity) that already has a faithful marble movement physics, then continued with codes based on [Marble Blast Web Port](https://github.com/Vanilagy/MarbleBlast) and [Marble Blast Haxe Port](https://github.com/RandomityGuy/MBHaxe/). The Unity version used is Unity 6.3 and with High Definition Render Pipeline (HDRP) so you might need to have a decent GPU to run this game.
+The unity port of the popular Marble Blast Gold modification Marble Blast Fubar. This project is technically a fork of my Marble Blast Platinum Unity Port. This project started from CyberFox's [MarblePhysics Unity](https://github.com/CyberFoxHax/MarblePhysicsUnity) that already has a faithful marble movement physics, then continued with codes based on [Marble Blast Web Port](https://github.com/Vanilagy/MarbleBlast) and [Marble Blast Haxe Port](https://github.com/RandomityGuy/MBHaxe/). 
+
+The Unity version used is Unity 6.3 and with High Definition Render Pipeline (HDRP) so you might need to have a decent GPU to run this game.
 
 Below are screenshots of the game (you can see other screenshots in this repository). This repository only for placing build download and level screenshots, the actual project files are private (due to usage of paid assets).
 
@@ -13,6 +15,7 @@ Below are screenshots of the game (you can see other screenshots in this reposit
 ## System Requirements
 
 As this project uses HDRP, you need a decent GPU to run the game at in at least 30 FPS.
+
 **Minimum Requirements**
 - OS: Windows 10 (64-bit)
 - CPU: Intel Core i5-4460 / AMD Ryzen 3 1200
